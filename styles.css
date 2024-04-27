@@ -1,3 +1,29 @@
 body {
-  background-image: url("favicon-32x32.png");
+  background-color: #d6e1f0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  background: white;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  margin-top: 70px;
+  border-radius: 20px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+img {
+  border-radius: 10px;
+  padding: 5px;
 }
